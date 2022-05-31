@@ -15,11 +15,11 @@ Deverá ser utilizado apenas o método GET e o path deve ser configurado como
 
 *Exemplo de resquest*
 
-GET/ http://localhost:8080/boleto/21290001192110001210904475617405975870000002000
+*GET/ http://localhost:8080/boleto/21290001192110001210904475617405975870000002000*
 
-Exemplo de response
+*Exemplo de response*
 
-status 200
+*status 200*
 ```json
 {
   "barCode": "21299758700000020000001121100012100447561740",

@@ -52,7 +52,7 @@ Para testar a API:
 yarn test
 ```
 
->Como gerenciador de pacote, você usar tanto o **yarn** como o **npm**
+>Como gerenciador de pacote, você pode usar tanto o **yarn** como o **npm**
 
 ---
 ## **Paths**

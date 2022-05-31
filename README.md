@@ -57,7 +57,7 @@ yarn test
 ---
 ## **Paths**
 Segue alguns paths para ajudar nos testes:
-* [Título Bancário](http://localhost:8080/boleto/21290001192110001210904475617405975870000002000)
+* [Título Bancário](http://localhost:8080/boleto/34191127393678133012559751770005990220000027997)
 * [Pagamento de Concessionária](http://localhost:8080/boleto/836200000005790400403313033854278034100956129439)
 
 >Lembre-se de iniciar a API!

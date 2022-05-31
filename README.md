@@ -34,6 +34,9 @@ Documentações com as regras de negócios:
 
 ---
 ## **Execução e Teste**
+Para a construção da API, foi utilizado o framework **Express.js**.  
+E a versão do Node.js utilizada foi a **v14.17.0**.
+
 Para instalar as dependências:
 ```console
 yarn install
